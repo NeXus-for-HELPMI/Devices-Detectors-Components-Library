@@ -1,4 +1,16 @@
-**Last Update 13.12.2023 by MBSchwab**
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+
+# The Devices/Detectors/Components Library (DDC) 
 
 The "Devices/Detectors/Components Library" is a list containing all of the items in the laser-plasma laboratory that could be represented in a metadata system. Please make edits/comments where you see fit. 
 
@@ -28,3 +40,16 @@ Categories left as template, left empty, or filled in by a NON-expert:
 *     Particle Beam Probe
 
 All other categories can and should still be edited/commented, but the list above would definitely need work if those devices/items will be included.
+
+## Contributors
+Matthew Schwab <matthew.schwab@uni-jena.de>
+
+Alexander Kessler <alexander.kessler@uni-jena.de>
+
+Hans-Peter Schlenvoigt <h.schlenvoigt@hzdr.de>
+
+Johannes Hornung <J.Hornung@gsi.de>
+
+Franz Pöschel  <f.poeschel@hzdr.de>
+
+Alexander Debus <a.debus@hzdr.de>
