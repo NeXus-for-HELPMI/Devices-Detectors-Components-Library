@@ -12,7 +12,7 @@ This work is licensed under a
 
 # The Devices/Detectors/Components Library (DDC) 
 
-The "Devices/Detectors/Components Library" is a list containing all of the items in the laser-plasma laboratory that could be represented in a metadata system. Please make edits/comments where you see fit. 
+The "Devices/Detectors/Components Library" shall become a list containing all of the items in the laser-plasma laboratory that could be represented in a metadata system. Please make edits/comments where you see fit. 
 
 Remember that the final organization of this data could change drastically, for example, we create a single container for "laser's pulse duration measurement" and all of the listed devices (Wizzler, FROG, SPIDER, etc.) get summarized somehow in that container.
 
@@ -53,3 +53,6 @@ Johannes Hornung <J.Hornung@gsi.de>
 Franz Pöschel  <f.poeschel@hzdr.de>
 
 Alexander Debus <a.debus@hzdr.de>
+
+## Funding
+This work is part of the [HELPMI project](https://helmholtz-metadaten.de/en/inf-projects/helpmi-helmholtz-laser-plasma-metadata-initiative) of the Helmholtz Metadata Collaboration [HMC](https://helmholtz-metadaten.de/en). This project (ZT-I-PF-3-066) was funded by the Initiative and Networking Fund of the Helmholtz Association in the framework of the Helmholtz Metadata Collaboration project call.
